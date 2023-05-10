@@ -33,6 +33,6 @@ npm start
 
 * Can't paint ontop of textarea
 * Dragging the text area is fragile
-* You can choose only on picure and the browse pictures button is always 
+* You can choose only one picure and the "browse pictures" button is always 
 ontop of the picture
 
