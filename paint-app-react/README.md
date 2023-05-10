@@ -2,10 +2,17 @@
 
 
 ## How to install
-
-- [ ] git clone
-- [ ] npm install in the project directory
-
+```
+git clone
+```
+In the project directory:
+```
+npm install
+```
+To run:
+```
+npm start
+```
 ## Features:
 
 ### Adding text boxes by dragging and dropping
